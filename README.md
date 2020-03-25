@@ -1,3 +1,3 @@
 # Oregon-Trail
-Test repository for learning github and EGit / Eclipse procedures
-Added a line
+Test repository for learning github and Microsoft Visual Studio procedures
+@20200324;1515
