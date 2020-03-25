@@ -2,16 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>15c82061-0a8e-4b0e-879c-76bdee0f46df</ProjectGuid>
+    <ProjectGuid>c9944f7f-5d60-4eac-92b1-b6329068b02f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>arithmetic.py</StartupFile>
+    <StartupFile>Arithmetic1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>HelloWorld2</Name>
-    <RootNamespace>HelloWorld2</RootNamespace>
-    <IsWindowsApplication>False</IsWindowsApplication>
+    <Name>Arithmetic1</Name>
+    <RootNamespace>Arithmetic1</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -22,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="HelloWorld2.py" />
+    <Compile Include="Arithmetic1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

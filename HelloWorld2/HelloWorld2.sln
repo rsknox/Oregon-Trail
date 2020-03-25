@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelloWorld2", "HelloWorld2.pyproj", "{15C82061-0A8E-4B0E-879C-76BDEE0F46DF}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arithmetic", "..\Arithmetic\Arithmetic.pyproj", "{1E083829-0695-42CE-AB06-3837783FEA49}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arithmetic1", "..\Arithmetic1\Arithmetic1.pyproj", "{C9944F7F-5D60-4EAC-92B1-B6329068B02F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{15C82061-0A8E-4B0E-879C-76BDEE0F46DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{15C82061-0A8E-4B0E-879C-76BDEE0F46DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E083829-0695-42CE-AB06-3837783FEA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E083829-0695-42CE-AB06-3837783FEA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9944F7F-5D60-4EAC-92B1-B6329068B02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9944F7F-5D60-4EAC-92B1-B6329068B02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
